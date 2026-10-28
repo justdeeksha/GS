@@ -1,0 +1,4 @@
+name,city,area,default_venue,url,notes
+Practice Gallery One,Delhi NCR,Defence Colony,"Practice Gallery One, Defence Colony",https://example.com/one/exhibitions,Made-up page with tidy event data
+Practice Gallery Two,Delhi NCR,Lado Sarai,"Practice Gallery Two, Lado Sarai",https://example.com/two/whats-on,Made-up page with no tidy event data (needs Claude)
+Practice Gallery Three,Delhi NCR,Mandi House,"Practice Gallery Three, Mandi House",https://example.com/three/events,Made-up page listing the same show as Gallery One
